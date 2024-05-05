@@ -27,7 +27,7 @@ function NavBar(){
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="mailto:maudysi12@gmail.com" target="_blank">Email</a></li>
-            <li><a class="dropdown-item" href='https://www.linkedin.com/in/mauricio-silva-dazarola/' target="_blank">Linked In</a></li>
+            <li><a class="dropdown-item" href='https://www.linkedin.com/in/mauricio-silva-dazarola/' target="_blank">LinkedIn</a></li>
             <li class="dropdown-divider"></li>
             <li><a class="dropdown-item" href='https://github.com/MoMoney75' target="_blank">Github</a></li>
           </ul>
