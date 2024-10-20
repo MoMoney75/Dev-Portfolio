@@ -1,20 +1,16 @@
-#introDiv > h1{
-   
-    border-style: solid;
+
+#introDiv{
+    margin-top: 2em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
     border-color: #941ed9;
-    border-radius: 0.5rem;
+    border-bottom: 2px solid #941ed9;
     text-align: start;
     padding: 1em;
     color: white;
     font-weight:800px;
     background-color: rgba(2, 0, 0, 0.65); 
-    max-width: 40rem;
-   
-}
-
-#introDiv{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
+    max-width: 100%;
 }

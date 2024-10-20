@@ -1,7 +1,7 @@
 
 #aboutDiv{
     display:flex ;
-    text-align: center;
+    text-align: start;
     justify-content: center;
     flex-direction: row;
     color: white;
@@ -16,3 +16,4 @@
     max-width: 40rem;
 
 } 
+

@@ -10,11 +10,13 @@ function App() {
   return (
     <div>
        <NavBar />
+
        <div className='container-fluid'>
-       <Intro />
-       <About />
-       <Technology />
+        <Intro />
+        <About />
+        <Technology />
        <div id="projectHeader"> <p class="h1"> Projects </p></div>
+
         <div id="mainProjectDiv">
 
             <CocktailProject />
@@ -23,7 +25,6 @@ function App() {
        </div>
 
        </div>
-
     </div>
   );
 }

@@ -1,5 +1,5 @@
 body{
-  background-image: url("./background.jpg");
+  background-image: url("./Screenshot 2024-10-19 at 5.51.45 PM.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -37,6 +37,18 @@ body{
 
 }
 
+#wrapper-div{
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  opacity:0.7;
+  height: 100%;
+  max-width: fit-content;
+  margin-top: auto;
+  margin-bottom: 3em;
+  border: 1px solid black;
+  border-radius: 0.5em;
+}
 
 
 

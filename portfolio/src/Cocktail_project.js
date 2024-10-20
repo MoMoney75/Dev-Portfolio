@@ -33,7 +33,7 @@ function CocktailProject(){
               <div>
                 <h5>Technology used:</h5>
                 <p>
-                Python | Flask | Jinja | SQLAlchemy | PSQL |
+                Python | Flask | Jinja | SQLAlchemy | SQL | WTForms | Bcrypt
                 </p>
             </div>
               <div class="project_images">
