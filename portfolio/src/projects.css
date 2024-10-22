@@ -34,6 +34,11 @@ text-align: center;
 
 }
 
+#JoblyPlanet{
+    background-color: orange;
+
+}
+
 .planet:hover{
     background-color: blue;
 }
@@ -41,6 +46,11 @@ text-align: center;
 #brainiacPlanet:hover{
     background-color: blue;
 }
+
+#JoblyPlanet:hover{
+    background-color: blue;
+}
+
 
 
 .planet > p {

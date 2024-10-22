@@ -4,6 +4,7 @@ import NavBar from './Navbar';
 import About from './About';
 import CocktailProject from './Cocktail_project';
 import BrainiacProject from './Braniac_project';
+import JoblyProject from './Jobly_project';
 import Technology from './Technology';
 
 function App() {
@@ -22,6 +23,8 @@ function App() {
             <CocktailProject />
           
             <BrainiacProject />
+
+            <JoblyProject />
        </div>
 
        </div>
