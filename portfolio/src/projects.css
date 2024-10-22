@@ -70,7 +70,7 @@ text-align: center;
 
 #projectHeader{
 display: flex;
-flex-direction: row;
+flex-direction: column;
 justify-content: center;
 text-align: center;
 color: white;

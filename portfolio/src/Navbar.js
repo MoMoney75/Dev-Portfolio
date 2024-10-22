@@ -19,7 +19,7 @@ function NavBar(){
           <a class="nav-link" href="#techstack">Tech Stack</a>
         </li>
         <li class="nav-item">
-         <a class="nav-link" href="#mainProjectDiv">Projects</a>
+         <a class="nav-link" href="#projectHeader">Projects</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
