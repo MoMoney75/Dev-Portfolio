@@ -2,10 +2,8 @@ import './App.css';
 import Intro from './Intro';
 import NavBar from './Navbar';
 import About from './About';
-import CocktailProject from './Cocktail_project';
-import BrainiacProject from './Braniac_project';
-import JoblyProject from './Jobly_project';
 import Technology from './Technology';
+import Projects from './Projects';
 
 function App() {
   return (
@@ -16,16 +14,15 @@ function App() {
         <Intro />
         <About />
         <Technology />
-       <div id="projectHeader"> <p class="h1"> Projects </p></div>
+        <div id="projectHeader"> 
+        <h1 class="h1"> Projects </h1>
+        <Projects />
+        </div>
 
-        <div id="mainProjectDiv">
+        
+     
+            
 
-            <CocktailProject />
-          
-            <BrainiacProject />
-
-            <JoblyProject />
-       </div>
 
        </div>
     </div>

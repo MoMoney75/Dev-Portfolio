@@ -7,7 +7,7 @@ return(
         <h1 class='h3'>
             Hello, My name is Mauricio Silva,
             a Full Stack Developer from South Florida. Let's connect and explore how
-            we can bring you vision to life!
+            we can bring your vision to life!
         </h1>
     </div>
 
