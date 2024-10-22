@@ -1,16 +1,23 @@
 
 #introDiv{
     margin-top: 2em;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
     border-color: #941ed9;
     border-bottom: 2px solid #941ed9;
     text-align: start;
     padding: 1em;
     color: white;
-    font-weight:800px;
     background-color: rgba(2, 0, 0, 0.65); 
-    max-width: 100%;
+    max-width: 40rem;
+
+}
+
+#profileImg > img{
+    padding:0;
+    border-style: solid;
+    border-radius: 50%;
+    color: white;
+    border: none;
+    width: 10em;
+    height: 10em;
+    margin: 1em;
 }
