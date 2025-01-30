@@ -1,0 +1,21 @@
+#techstack{
+ display: flex;
+ flex-direction: column;
+ margin-bottom: 2em;
+ flex-wrap: wrap;
+ justify-content: center;
+ color:white;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 5em;
+ border-style: solid;
+ border-color: blueviolet;
+ border-radius: 0.5rem;
+ background-color: rgba(2, 0, 0, 0.65); 
+ padding: 1.5em;
+ max-width: 40rem;
+}
+
+#techstack > p{
+    text-decoration: underline;
+}

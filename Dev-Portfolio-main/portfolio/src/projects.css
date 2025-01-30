@@ -1,0 +1,87 @@
+.project_images{
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+}
+.project_images > div{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    align-items: center;
+}
+
+.project_images > div > img{
+    width: 65%;
+    height: 65%;
+
+}
+.planet{
+    padding:0;
+    border-style: solid;
+    border-radius: 50%;
+    color: white;
+    background-color: palevioletred;
+    border: none;
+    width: 10em;
+    height: 10em;
+    margin: 1em;
+    
+}
+
+#brainiacPlanet{
+    background-color: fuchsia;
+
+}
+
+#JoblyPlanet{
+    background-color: orange;
+
+}
+
+.planet:hover{
+    background-color: blue;
+}
+
+#brainiacPlanet:hover{
+    background-color: blue;
+}
+
+#JoblyPlanet:hover{
+    background-color: blue;
+}
+
+
+
+.planet > p {
+    font-size: 1.2em;
+
+}
+
+.planetDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 4em;
+
+}
+
+#projectHeader{
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+color: white;
+}
+
+
+
+.modal-body{
+    width: 100%;
+    color: black;
+}
+
+.modal-title {
+    color: black;
+}
