@@ -78,4 +78,9 @@ color: white;
 
 .modal-body{
     width: 100%;
+    color: black;
+}
+
+.modal-title{
+    color: black;
 }
